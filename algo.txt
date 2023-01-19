@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 %-------------------------------------------------------------------------%
 %  This simple program computes the Electric Fields due to 
 %  Parallel plate Capacitors using the Finite difference method (FDM)  
@@ -116,3 +117,20 @@ set(fh3, 'color', 'white')
 % REFERENCE
 %           SADIKU, ELEMENTS OF ELECTROMAGNETICS, 4TH EDITION, OXFORD
 %-------------------------------------------------------------------------%
+=======
+Algo HelloWorld {
+ fonction principale {
+// Création de la fenetre
+ Créer une fenetre de titre ‘Hello world’
+Mettre la dimension à 200, 200
+Configurer la fenetre sur ‘exitOnClose’
+// Création du label de texte
+Créer un label avec du texte centré et contenant le texte ‘Hello world’
+Créer la couleur jaune
+Mettre la couleur jaune sur le label
+// Finalisation
+Ajouter le lable sur la fenetre
+Afficher la fenêtre
+}
+}
+>>>>>>> ec0c9c0 (C10: petit modification sur le depot local)
