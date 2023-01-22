@@ -1,6 +1,6 @@
 %-------------------------------------------------------------------------%
 %  This simple program computes the Electric Fields due to 
-%  Parallel plate Capacitors using the Finite difference method (FDM)  
+%  Parallel plate Capacitor using the Finite difference method (FDM)  
 %-------------------------------------------------------------------------%
 clc
 close all; clear all;
